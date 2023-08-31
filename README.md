@@ -9,6 +9,7 @@ Demonstrated in the notebooks:
 - web_scrape_jamie.ipynb
 - web_scrape_lau.ipynb
 
+Please note as you read these notebooks, the websites may have been updated so the number of recipes may not match, and running the code may result in different outputs.
 ## Installation
 This project requires Python and the following libraries installed:
 - NumPy
